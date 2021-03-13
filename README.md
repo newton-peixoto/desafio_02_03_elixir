@@ -1,6 +1,6 @@
 # ℹ️ <b> Descrição </b>
 
-Módulos referente ao desafio 01 e 02 do segundo módulo do capítulo 01 da trilha de Elixir - rocketseat
+Módulos referente ao desafio 03 e 04 do capítulo 01 da trilha de Elixir - rocketseat
 
 # <b> Sobre os módulos </b>
 
